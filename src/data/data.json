@@ -1,0 +1,231 @@
+{
+  "Movies": [
+    {
+      "Title": "Batman Begins",
+      "Year": "2006",
+      "imdbID": "tt0372784",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "id": "ddoj8CL05sA"
+    },
+    {
+      "Title": "The Batman",
+      "Year": "2025",
+      "imdbID": "tt1877830",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "id": "vJPbYCuEAh4"
+    },
+    {
+      "Title": "Batman Returns",
+      "Year": "1993",
+      "imdbID": "tt0103776",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "id": "9ob_jf4d3Lk"
+    },
+    {
+      "Title": "Batman & Robin",
+      "Year": "1997",
+      "imdbID": "tt0118688",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "id": "SJJrRFRd7wQ"
+    },
+    {
+      "Title": "Batman Forever",
+      "Year": "1995",
+      "imdbID": "tt0112462",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg",
+      "id": "H-s4wHKSmco"
+    },
+    {
+      "Title": "The Lego Batman Movie",
+      "Year": "2017",
+      "imdbID": "tt4116284",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+      "id": "0XeCqPL3UGg"
+    },
+    {
+      "Title": "Batman: The Killing Joke",
+      "Year": "2016",
+      "imdbID": "tt4853102",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzJiZTJmNGItYTUwNy00ZWE2LWJlMTgtZjJkNzY1OTRiNTZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "id": "N8mVUJk6j4Y"
+    },
+    {
+      "Title": "test2",
+      "Year": "2001",
+      "imdbID": "gfhj23456789",
+      "Type": "movie",
+      "Poster": "",
+      "id": "rs8Flt_tFdY"
+    }
+  ],
+  "Users": [
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Saudi Arabia",
+      "plan": "free",
+      "genres": [
+        "action"
+      ],
+      "id": "WvOf2FHPQes"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "genres": [
+        "action",
+        "comedy"
+      ],
+      "id": "fUPZaq_0xiw"
+    },
+    {
+      "firstName": "test",
+      "lastName": "2",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "genres": [
+        "comedy"
+      ],
+      "id": "eWBDltU_U9g"
+    },
+    {
+      "firstName": "sara",
+      "lastName": "saad",
+      "email": "sarasaad103@gmail.com",
+      "password": "555555555555555ertyui",
+      "country": "Saudi Arabia",
+      "plan": "free",
+      "genres": [
+        "drama"
+      ],
+      "id": "nOnpXAHAFdU"
+    },
+    {
+      "firstName": "nada",
+      "lastName": "saad",
+      "email": "nadasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Saudi Arabia",
+      "plan": "premium",
+      "genres": [
+        "action"
+      ],
+      "id": "9bfsPJATd08"
+    },
+    {
+      "firstName": "Amirareter",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Saudi Arabia",
+      "plan": "free",
+      "genres": [
+        "drama"
+      ],
+      "id": "OHn0p3LMojQ"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Saudi Arabia",
+      "plan": "free",
+      "genres": [
+        "drama"
+      ],
+      "id": "_DzK-agkGds"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "types": [
+        "action",
+        "drama"
+      ],
+      "id": "oPfxJ4yTvlY"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "types": [
+        "action"
+      ],
+      "id": "PVzn8fZRmr4"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "types": [
+        "drama"
+      ],
+      "id": "mLuYt11qfjA"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "types": [
+        "drama"
+      ],
+      "id": "pvj-vL6KgSY"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaad103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "types": [
+        "drama"
+      ],
+      "id": "iiryVq3EH5E"
+    },
+    {
+      "firstName": "Amira",
+      "lastName": "Saad",
+      "email": "amirasaadv2103@gmail.com",
+      "password": "555555555555555",
+      "country": "Egypt",
+      "plan": "free",
+      "types": [
+        "action"
+      ],
+      "id": "UgRnmiZLnNU"
+    }
+  ],
+  "totalResults": "519",
+  "Response": "True",
+  "$schema": "./node_modules/json-server/schema.json"
+}
